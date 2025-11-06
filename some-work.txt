@@ -1,3 +1,7 @@
 Hello World!
 
 This is a final project for 705 Data Science Class. 
+
+Here i have a new idea. 
+
+This is a an apple. 
